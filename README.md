@@ -3,7 +3,7 @@ Pawn execution platform (abstract machine) for Windows with test script
 
 Copyrights :\
   ITB CompuPhase (pawnrun.exe and Pawn language)\
-and that's all:)\
+and that's all:)
 
 
 # База абстрактной машины для языка Pawn
